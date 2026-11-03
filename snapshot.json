@@ -1,0 +1,39 @@
+{
+  "state": "recent",
+  "source": "history",
+  "track": {
+    "id": "6K7Puz5CGZN2wZnNyTW7ku",
+    "name": "Show Me (feat. Monica Martin)",
+    "artist": "James Blake, Monica Martin",
+    "album": "Friends That Break Your Heart",
+    "album_art_url": "https://i.scdn.co/image/ab67616d0000b27338d030048ec770b15633dbc1",
+    "duration_ms": 218003,
+    "popularity": null,
+    "spotify_url": "https://open.spotify.com/track/6K7Puz5CGZN2wZnNyTW7ku",
+    "preview_url": null
+  },
+  "mood": {
+    "text": "静かな夜に浸って、少しセンチメンタルな気分になっています",
+    "generated_at": "2026-11-03T16:55:42.261Z"
+  },
+  "observed_at": "2026-11-03T15:14:39.048Z",
+  "ranking_mood": {
+    "range": "short_term",
+    "track_ids": [
+      "2k6OpEcFV2VvXdVmPRNCiw",
+      "76gcXhY3Zv6wW0BTe9nHJo",
+      "72v5hEFw5nJshkGSzijzg5",
+      "2xA8AFeN5Q2vO4RKTvW4Ig",
+      "7vG8zjbeQmwCe4azzU77oU",
+      "1Vn4C8zBO7b2pZPQ8L0oZO",
+      "40T5GIqQ1CegGm2PTEl8Bu",
+      "0PRduxqXvtIlqGoFuQrJzQ",
+      "2QqJTIlGKRLJC3onkavYEz",
+      "6HexNTb392JS071DoTGo0y"
+    ],
+    "mood": {
+      "text": "最近はリリックに耳を澄ませるemoな気分に浸っているようです",
+      "generated_at": "2026-10-30T20:02:15.621Z"
+    }
+  }
+}
